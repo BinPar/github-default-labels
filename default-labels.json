@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Severity: Low",
+    "color": "55aa7a"
+  },
+  {
+    "name": "Priority: Low",
+    "color": "2aaa62"
+  },
+  {
+    "name": "Severity: Moderate",
+    "color": "f9d970"
+  },
+  {
+    "name": "Priority: Medium",
+    "color": "f9ce3e"
+  },
+  {
+    "name": "Severity: Major",
+    "color": "f9863e"
+  },
+  {
+    "name": "Priority: High",
+    "color": "f96a11"
+  },
+  {
+    "name": "Severity: Critical",
+    "color": "f60400"
+  },
+  {
+    "name": "Priority: Critical",
+    "color": "f60400"
+  }
+]
